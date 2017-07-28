@@ -1,0 +1,4 @@
+git STATUS
+git add filesname
+git commit -m ""
+git status
